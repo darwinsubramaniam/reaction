@@ -41,7 +41,7 @@
     "apollo-link-http": "1.5.4",
     "apollo-link-ws": "1.0.12",
     "apollo-server": "2.3.1",
-    "apollo-server-express": "2.3.1",
+    "apollo-server-express": "2.14.2",
     "autoprefixer": "^7.2.5",
     "autosize": "^4.0.0",
     "body-parser": "^1.18.2",
